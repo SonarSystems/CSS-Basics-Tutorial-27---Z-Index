@@ -1,4 +1,4 @@
-CSS-Basics-Tutorial-27---Z-Index
+CSS Basics Tutorial 27 - Z-Index
 ================================
 
 Code for the following video tutorial 
